@@ -1,0 +1,38 @@
+[
+  {
+    "number": 178,
+    "firstName": "Ersin",
+    "lastName": "Sel",
+    "gender": "Erkek",
+    "grade": true,
+    "parents": {
+      "firstName": "Tahsin",
+      "lastName": "Sel",
+      "telephone": "04637894634"
+    }
+  },
+  {
+    "number": 269,
+    "firstName": "Baris",
+    "lastName": "Can",
+    "gender": "Erkek",
+    "grade": false,
+    "parents": {
+      "firstName": "İmdat",
+      "lastName": "Can",
+      "telephone": "08537678634"
+    }
+  },
+  {
+    "number": 943,
+    "firstName": "Fatma",
+    "lastName": "Yılmaz",
+    "gender": "kız",
+    "grade": true,
+    "parents": {
+      "firstName": "Ayşe",
+      "lastName": "Yılmaz",
+      "telephone": "06473894634"
+    }
+  }
+]
